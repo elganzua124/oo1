@@ -1,0 +1,3 @@
+accessing
+destinatario
+	^ destinatario

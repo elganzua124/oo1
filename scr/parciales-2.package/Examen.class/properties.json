@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/26/2017 02:40",
+	"super" : "Evaluacion",
+	"category" : "parciales-2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"preguntas"
+	],
+	"name" : "Examen",
+	"type" : "normal"
+}

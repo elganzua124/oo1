@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/25/2017 22:31",
+	"super" : "Object",
+	"category" : "parciales-2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"evaluacion",
+		"contenido"
+	],
+	"name" : "Pregunta",
+	"type" : "normal"
+}

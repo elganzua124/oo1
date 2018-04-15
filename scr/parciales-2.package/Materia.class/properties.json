@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/28/2017 10:39",
+	"super" : "Object",
+	"category" : "parciales-2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"dictados",
+		"sistema"
+	],
+	"name" : "Materia",
+	"type" : "normal"
+}

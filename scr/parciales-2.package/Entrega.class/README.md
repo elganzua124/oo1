@@ -1,0 +1,1 @@
+Soy una evaluación tipo entrega. Tengo como atributo un enunciado, que no es más ni menos que un objeto Pregunta.

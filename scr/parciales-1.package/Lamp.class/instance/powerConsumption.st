@@ -1,0 +1,3 @@
+accessing
+powerConsumption
+	^ consumes

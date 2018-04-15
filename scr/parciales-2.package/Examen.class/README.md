@@ -1,0 +1,1 @@
+Soy una evaluación tipo examen, tengo una colección de preguntas.

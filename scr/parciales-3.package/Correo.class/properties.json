@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Mensaje",
+	"category" : "parciales-3",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"remitente",
+		"enviado"
+	],
+	"name" : "Correo",
+	"type" : "normal"
+}

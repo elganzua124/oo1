@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BandejaDeCorreos",
+	"category" : "parciales-3",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BandejaEliminados",
+	"type" : "normal"
+}

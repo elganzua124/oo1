@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "parciales-4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"apellido",
+		"correo",
+		"vehiculos"
+	],
+	"name" : "PersonaDueñaVehiculo",
+	"type" : "normal"
+}

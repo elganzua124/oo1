@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "parciales-3",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cuerpo",
+		"fecha"
+	],
+	"name" : "Mensaje",
+	"type" : "normal"
+}
