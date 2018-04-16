@@ -1,4 +1,4 @@
-private
+as yet unclassified
 estaAprobadaPorAlumno: unAlumno
 	"Un examen está aprobado si el 70% de las respuestas son correctas."
 
