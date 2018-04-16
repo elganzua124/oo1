@@ -1,3 +1,3 @@
-as yet unclassified
+private
 alumnosAprobados
 	^ dictado alumnado select: [ :alumno | self estaAprobadaPorAlumno: alumno ]

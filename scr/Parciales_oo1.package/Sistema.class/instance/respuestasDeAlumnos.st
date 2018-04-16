@@ -1,3 +1,0 @@
-private
-respuestasDeAlumnos
-	^ respuestasDeAlumnos
