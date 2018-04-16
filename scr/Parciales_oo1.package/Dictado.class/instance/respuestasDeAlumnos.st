@@ -1,3 +1,3 @@
-as yet unclassified
+private
 respuestasDeAlumnos
-	^ materia respuestasDeAlumnos select: [ :rta | rta dictadoDeRespuesta = self ]
+	^ materia respuestasDeDictado: self

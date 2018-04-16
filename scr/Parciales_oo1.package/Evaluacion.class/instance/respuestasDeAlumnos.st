@@ -1,3 +1,3 @@
-as yet unclassified
+private
 respuestasDeAlumnos
-	^ dictado respuestasDeAlumnos select: [ :rta | rta preguntaQueResponde evaluacionDePregunta = self ]
+	^ dictado respuestasDeEvaluacion: self 

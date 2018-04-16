@@ -1,3 +1,3 @@
-accessing
+private
 respuestasDeAlumnos
-	^ sistema respuestasDeAlumnos select: [ :a | a materiaDeRespuesta = self ]
+	^ sistema respuestasDeMateria: self
