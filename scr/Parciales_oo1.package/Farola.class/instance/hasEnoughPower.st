@@ -7,3 +7,5 @@ hasEnoughPower
 	consumoTotal := red sum: [ :a | a lamp powerConsumption ].
 	potenciaTotal := red sum: [ :a | a powerGeneration ].
 	^ potenciaTotal >= consumoTotal
+	" Testear:
+	^ (red sum: [ :each | each powerGeneration - each lamp powerConsumption ]) > 0"
