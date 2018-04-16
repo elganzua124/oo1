@@ -1,1 +1,0 @@
-Soy una variante de la evaluación tipo entrega.  Conozco la respuesta correcta al enunciado que dispongo (un objeto pregunta).

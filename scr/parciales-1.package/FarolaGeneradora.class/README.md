@@ -1,1 +1,0 @@
-Soy una farola generadora.

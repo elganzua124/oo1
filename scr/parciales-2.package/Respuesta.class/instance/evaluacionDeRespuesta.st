@@ -1,3 +1,0 @@
-accessing
-evaluacionDeRespuesta
-	^ preguntaQueResponde evaluacionDePregunta

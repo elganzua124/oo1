@@ -1,3 +1,0 @@
-initialization
-initialize
-	enviado := false

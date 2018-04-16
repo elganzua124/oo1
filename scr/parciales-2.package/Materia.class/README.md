@@ -1,1 +1,0 @@
-Soy una materia, conozco los dictados que se imparten, tambien conozco al sistema, para poder pedirle las respuestas de un determinado curso.
