@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/26/2017 11:01",
+	"super" : "Object",
+	"category" : "Parciales_oo1-1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lamp",
+		"switch",
+		"neighbors"
+	],
+	"name" : "Farola",
+	"type" : "normal"
+}

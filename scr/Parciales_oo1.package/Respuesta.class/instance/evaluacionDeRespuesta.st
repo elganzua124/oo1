@@ -1,0 +1,3 @@
+accessing
+evaluacionDeRespuesta
+	^ preguntaQueResponde evaluacionDePregunta

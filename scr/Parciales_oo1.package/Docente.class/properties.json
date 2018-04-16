@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/30/2017 01:29",
+	"super" : "Persona",
+	"category" : "Parciales_oo1-2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dni"
+	],
+	"name" : "Docente",
+	"type" : "normal"
+}

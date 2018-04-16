@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Vehiculo",
+	"category" : "Parciales_oo1-4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pesoMaximo"
+	],
+	"name" : "Camioneta",
+	"type" : "normal"
+}

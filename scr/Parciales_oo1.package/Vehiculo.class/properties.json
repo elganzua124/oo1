@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Parciales_oo1-4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"patente",
+		"marca",
+		"año",
+		"dueño"
+	],
+	"name" : "Vehiculo",
+	"type" : "normal"
+}

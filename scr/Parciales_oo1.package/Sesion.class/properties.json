@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Parciales_oo1-3",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"destinatario",
+		"chats"
+	],
+	"name" : "Sesion",
+	"type" : "normal"
+}

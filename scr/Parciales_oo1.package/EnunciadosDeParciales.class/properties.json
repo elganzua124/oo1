@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/31/2017 22:46",
+	"super" : "Object",
+	"category" : "Parciales_oo1-EnunciadosDeParciales",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"enunciados"
+	],
+	"name" : "EnunciadosDeParciales",
+	"type" : "normal"
+}

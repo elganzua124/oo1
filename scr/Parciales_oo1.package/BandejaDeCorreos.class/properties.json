@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Parciales_oo1-3",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"correos",
+		"cliente"
+	],
+	"name" : "BandejaDeCorreos",
+	"type" : "normal"
+}

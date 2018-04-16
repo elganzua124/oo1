@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/26/2017 11:02",
+	"super" : "Object",
+	"category" : "Parciales_oo1-1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expireDate",
+		"consumes",
+		"itsWorking"
+	],
+	"name" : "Lamp",
+	"type" : "normal"
+}

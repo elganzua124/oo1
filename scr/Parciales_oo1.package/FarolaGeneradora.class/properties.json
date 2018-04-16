@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FranciscoHerrera 12/26/2017 11:02",
+	"super" : "Farola",
+	"category" : "Parciales_oo1-1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"power"
+	],
+	"name" : "FarolaGeneradora",
+	"type" : "normal"
+}
