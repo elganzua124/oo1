@@ -1,7 +1,7 @@
 as yet unclassified
 imprimirResultado: unVehiculo
 	"Emite el certificado de VTV que corresponda a unVehiculo. Si la VTV está aprobada imprime en Transcript: 'Vehiculo con Patente ' <Numero de Patente> 'obtiene VTV OK el '<fecha actual>. Vence ' <fecha Vencimiento VTV> '. Monto abonado $' <total pagado en pesos>.
-	Si no pasa algun control imprime en Transcript: 'Vehiculo con Patente ' <Numero Patente> ' no apto para VTV segun control del dia ' <fecha actual>"
+	Si no pasa algun control imprime en Transcript: 'Vehiculo con Patente ' <Numero Patente> ' no apto para VTV segun control del dia ' <fecha actual>."
 
 	| vtv |
 	vtv := self ultimaVTVDeVehiculo: unVehiculo.
