@@ -1,4 +1,4 @@
-switching
+actions
 turnOff
 "Si la farola no está apagada, la apaga y propaga la acción."
 	self switch

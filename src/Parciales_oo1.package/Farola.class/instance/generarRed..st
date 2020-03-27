@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 generarRed: farolas
 	"Método recursivo que devuelve una colección de las farolas que pertenecen a la red."
 
